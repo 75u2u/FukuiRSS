@@ -1,5 +1,6 @@
 # FukuiRSS  
-## ’nˆæŠˆ«‰»‚Ì‚½‚ß‚Ìî•ñŽûWƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚ÌŠJ”­  
+## åœ°åŸŸæ´»æ€§åŒ–ã®ãŸã‚ã®æƒ…å ±åŽé›†ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã®é–‹ç™º  
   
-<img src="./screenshots/fukui.png" alt="ƒAƒCƒRƒ“" title="ƒAƒCƒRƒ“">@<img src="./screenshots/fukuiRSS.PNG" alt="ƒŠƒXƒgƒrƒ…[" title="ƒŠƒXƒgƒrƒ…[">@
-<img src="./screenshots/fukuiRSS1.PNG" alt="Webƒuƒ‰ƒEƒU" title="Webƒuƒ‰ƒEƒU">@@
+<img src="./screenshots/fukui.png" alt="ã‚¢ã‚¤ã‚³ãƒ³" width="30%" height="30%" title="ã‚¢ã‚¤ã‚³ãƒ³">ã€€
+<img src="./screenshots/fukuiRSS.PNG" width="30%" height="30%" alt="ãƒªã‚¹ãƒˆãƒ“ãƒ¥ãƒ¼" title="ãƒªã‚¹ãƒˆãƒ“ãƒ¥ãƒ¼">ã€€
+<img src="./screenshots/fukuiRSS1.PNG" width="30%" height="30%" alt="Webãƒ–ãƒ©ã‚¦ã‚¶" title="Webãƒ–ãƒ©ã‚¦ã‚¶">ã€€ã€€
